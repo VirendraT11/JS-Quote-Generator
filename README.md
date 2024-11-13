@@ -19,7 +19,7 @@ Welcome to the **JS Quote Generator** project! 🚀 This is a simple, yet powerf
 2. **Sharing on Twitter**: Click the "Share on Twitter" button to tweet the quote with a preformatted message 📢
 
 ## 🌍 Demo Screenshot
-![Quote Generator Screenshot]("C:\Users\vtamb\OneDrive\Pictures\Screenshots\Screenshot 2024-11-13 201759.png")
+![Quote Generator Screenshot](https://github.com/VirendraT11/JS-Quote-Generator/blob/main/Screenshot%202024-11-13%20201759.png)
 
 ## 📂 Installation
 
